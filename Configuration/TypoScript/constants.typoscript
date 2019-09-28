@@ -1,0 +1,15 @@
+
+plugin.tx_works_task {
+    view {
+        # cat=plugin.tx_works_task/file; type=string; label=Path to template root (FE)
+        templateRootPath = EXT:works/Resources/Private/Templates/
+        # cat=plugin.tx_works_task/file; type=string; label=Path to template partials (FE)
+        partialRootPath = EXT:works/Resources/Private/Partials/
+        # cat=plugin.tx_works_task/file; type=string; label=Path to template layouts (FE)
+        layoutRootPath = EXT:works/Resources/Private/Layouts/
+    }
+    persistence {
+        # cat=plugin.tx_works_task//a; type=string; label=Default storage PID
+        storagePid =
+    }
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2019-09-28T15:03:43Z" product-name="works">
+		<header/>
+		<body>
+			<trans-unit id="tx_works_domain_model_task">
+				<source>Task</source>
+			</trans-unit>
+			<trans-unit id="tx_works_domain_model_task.title">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_works_task.name">
+				<source>Works Task</source>
+			</trans-unit>
+			<trans-unit id="tx_works_task.description">
+				<source></source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
